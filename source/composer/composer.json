@@ -1,0 +1,13 @@
+{
+    "name": "imanda/composer",
+    "description": "testing composer to learn laravel",
+    "authors": [
+        {
+            "name": "ImandaSyahrul",
+            "email": "ImandaSyahrul@github.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
