@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/about', function() {
+    return '<h1>Hola</h1>'
+    .'Selamat datang di Jurusan Teknik Komputer dan Informatika<br>'
+    .'Dari CIWARUGA menggapai DUNIA.';
+    });
