@@ -1,2 +1,2 @@
 # JTKLoginForm
-form login wifi ged.D (JTK).made by JTKKompen
+portal wifi ged.D (JTK).made by JTKKompen
