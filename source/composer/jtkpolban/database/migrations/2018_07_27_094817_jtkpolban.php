@@ -17,6 +17,7 @@ class Jtkpolban extends Migration
             $table->string('password');
             $table->string('nama');
             $table->string('email')->unique();
+            $table->integer('tahun-masuk');
             $table->boolean('admin');
             $table->boolean('aktif');
             $table->timestamps('login-terakir');
