@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+<head><link rel="icon" href="images/favicon.ico"></head>
 @section('content')
 <div class="container">
     <div class="row">
